@@ -1,4 +1,4 @@
-#Number Statistics - Isla McLaughlin (29296040) - 08/01/2025
+#Number Statistics - 08/01/2025
 
 global newList
 global evenNumbers
