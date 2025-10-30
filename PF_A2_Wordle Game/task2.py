@@ -1,4 +1,4 @@
-#Wordle Game - Isla McLaughlin (29296040) - 09/01/2025
+#Wordle Game - 09/01/2025
 
 ##Modules##
 
